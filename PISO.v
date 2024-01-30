@@ -30,7 +30,7 @@ always @ (clk or load) begin
  if (load)
   temp <= din;
  else begin
-              // Write the logic for Paraallel In Serial Out Shift Register
+              // Write the logic for Parallel In Serial Out Shift Register
   
  end
 end
